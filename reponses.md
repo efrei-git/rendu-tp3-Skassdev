@@ -15,6 +15,15 @@ Après, je suis retourné sur main avec : git checkout main
 
 Sur main, la modification de feature-1 n'était pas présente, c'est normal, chaque branche est indépendante.
 
+Questions bonus
+Que se passe-t-il si j'essaie de supprimer une branche sur laquelle je suis ?
+
+Si j'essaie de supprimer une branche sur laquelle je suis, Git ne me laissera pas faire. Il faut d'abord que je change de branche, sinon je vais avoir une erreur. Par exemple, si je veux supprimer feature-1, je dois d'abord passer sur main, puis je peux supprimer feature-1.
+
+Comment voir les différences entre les branches main et feature-1 ?
+
+Pour voir les différences entre main et feature-1, je peux utiliser cette commande : git diff main..feature-1 Cela me montre toutes les modifications dans feature-1 par rapport à main.
+
 Exercice 2 : Fusion simple
 J'ai créé la branche dev et ajouté un fichier notes.txt : git checkout -b dev
 echo "Contenu de dev" > notes.txt
