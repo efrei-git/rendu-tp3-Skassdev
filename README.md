@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Projet d'exercice - Version Main
-=======
-# Projet d'exercice - Version Test
->>>>>>> conflit-test
+# Projet d'exercice - Version Main et Version Test
