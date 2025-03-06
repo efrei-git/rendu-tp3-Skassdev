@@ -1,0 +1,2 @@
+Contenu de feature-c
+Nouvelle ligne dans feature-c
