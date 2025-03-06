@@ -1,1 +1,2 @@
 Contenu de feature-a
+Nouvelle ligne dans feature-a
