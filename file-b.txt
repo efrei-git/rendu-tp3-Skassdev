@@ -1,1 +1,2 @@
 Contenu de feature-b
+Nouvelle ligne dans feature-b
