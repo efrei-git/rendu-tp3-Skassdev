@@ -1,1 +1,2 @@
 Contenu du fichier feature.txt
+Ajout d'une nouvelle ligne dans feature.txt
